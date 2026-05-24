@@ -1,0 +1,6 @@
+{
+  "name": "Labour Hisab Kitab",
+  "description": "A simple, clean mobile app in Hindi and English to manage labor attendance, daily wages, advance payments, and salary calculations offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
